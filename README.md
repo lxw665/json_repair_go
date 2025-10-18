@@ -33,7 +33,7 @@
 ## 安装
 
 ```bash
-go get github.com/lxw665/json_repair_go
+go get github.com/lxw/json_repair_go
 ```
 
 ## 快速开始
